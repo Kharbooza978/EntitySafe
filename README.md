@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/bazil-suhail/">Bazil Suhail</a> 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> A skilled <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=400&height=70&duration=4000&lines=Software+Engineer;+Full-Stack+Web-Developer;App+Developer" />
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> A skilled <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=400&height=40&duration=4000&lines=Software+Engineer;+Full-Stack+Web-Developer;App+Developer" />
 
 <a href="https://github.com/BazilSuhail"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=BazilSuhail&style=flat-square" width="125"/></a>
 ## 👨🏻‍🎓 About Me
