@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/bazil-suhail/">Bazil Suhail</a> 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> A skilled<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=27&center=true&vCenter=true&width=300&height=23&duration=4000&lines=Computer+Scientist;Web-App+Developer;Mobile-App+Developer" />
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> A skilled<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=26&center=true&vCenter=true&width=250&height=22&duration=6000&lines=Computer+Scientist;Web-App+Developer;Mobile-App+Developer" />
 
 <a href="https://github.com/BazilSuhail"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=BazilSuhail&style=flat-square" width="125"/></a>
 ## 👨🏻‍🎓 About Me
@@ -30,7 +30,7 @@ A passionate software engineer and full-stack developer specializing in crafting
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> 
-   
+ </br>
 <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>   
