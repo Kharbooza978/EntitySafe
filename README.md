@@ -2,7 +2,7 @@
   <img src="https://github.com/BazilSuhail/BazilSuhail/blob/main/LinkDinBanner.webp" alt="bazilsuhail" />
 </p>
 
-<h1 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/bazil-suhail/">Bazil Suhail</a> 
+<p size="25" align="left">Hi there, I'm <a href="https://www.linkedin.com/in/bazil-suhail/">Bazil Suhail</a> 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> A skilled <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=26&center=true&vCenter=true&width=290&height=23&marginTop=80&duration=6000&lines=Computer+Scientist;Web-App+Developer;Mobile-App+Developer" />
 
 
