@@ -1,12 +1,11 @@
 <p align="center">
-  <img src="https://github.com/BazilSuhail/BazilSuhail/blob/main/LinkDinBanner.webp" alt="bazilsuhail" />
+  <img src="https://github.com/BazilSuhail/BazilSuhail/blob/main/githubBanner.webp" alt="bazilsuhail" />
 </p>
 
 <a href="https://github.com/BazilSuhail"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=BazilSuhail&style=flat-square" width="125"/></a>
 
 <h1 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/bazil-suhail/">Bazil Suhail</a> 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> A skilled <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=26&center=true&vCenter=true&width=290&height=23&marginTop=80&duration=6000&lines=Computer+Scientist;Web-App+Developer;Mobile-App+Developer" />
-
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> A skilled<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=26&center=true&vCenter=true&width=300&height=23&duration=4000&lines=Computer+Scientist;Web-App+Developer;Mobile-App+Developer" />
 
 ## 👨🏻‍🎓 About Me
 A passionate software engineer and full-stack developer specializing in crafting elegant digital experiences. With expertise in various programming languages and technologies, I excel in both development and design. Currently pursuing a bachelor's degree at ITU, I thrive on building innovative projects, from React components and Next.js to full-stack SAAS applications. Let's connect and create something amazing!
@@ -40,17 +39,23 @@ A passionate software engineer and full-stack developer specializing in crafting
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> 
- </br>
+</br>
 <img alt="Next Js" src="https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
 <img alt="React Native" src="https://img.shields.io/badge/React%20Native-%2320232A.svg?&style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-<img alt="Nuxt.js" src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
-<img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img alt="Nuxt.js" src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white"  
 <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-%2300988A.svg?&style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img alt="Node js" src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> 
 <img alt="Express js" src="https://img.shields.io/badge/Express.js-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white"/>   
 <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
- </br>
+<img alt="Framer Motion" src="https://img.shields.io/badge/Framer%20Motion-%23C4C4C4.svg?&style=for-the-badge&logo=framer&logoColor=black"/>
+<img alt="Redux Toolkit" src="https://img.shields.io/badge/Redux%20Toolkit-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
+<img alt="VueUse Motion" src="https://img.shields.io/badge/VueUse%20Motion-%2341B883.svg?&style=for-the-badge&logo=vue.js&logoColor=white"/>
+<img alt="SFML" src="https://img.shields.io/badge/SFML-%230081CE.svg?&style=for-the-badge&logo=sfml&logoColor=white"/>
+<img alt="Tkinter" src="https://img.shields.io/badge/Tkinter-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+
+</br>
 <img alt="Supabase" src="https://img.shields.io/badge/Supabase-%233ECF8E.svg?&style=for-the-badge&logo=supabase&logoColor=white"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/> 
