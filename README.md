@@ -43,7 +43,7 @@ A passionate software engineer and full-stack developer specializing in crafting
 <img alt="Next Js" src="https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
 <img alt="React Native" src="https://img.shields.io/badge/React%20Native-%2320232A.svg?&style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-<img alt="Nuxt.js" src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white"  
+<img alt="Nuxt.js" src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white"  />
 <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-%2300988A.svg?&style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img alt="Node js" src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> 
