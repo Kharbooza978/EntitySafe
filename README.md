@@ -1,39 +1,48 @@
-## Collabora8r's Server
-**Collabora8r** a project collaboration and managment tool built using MERN stack aimed to enhance team collaboration, streamline task management, improved workflow and seamless communications resulting in  improved productivity. This is the Server Side of **collabora8r** built using `express-js`, `mongoDb` as a database `jwt-auth` for authentication of users and `socket-io` for real time exchange of notification and project updates.
+## Collabora8r (Project Management Tool)
+A project collaboration tool built using MERN stack aimed to enhance team collaboration, streamline task management and assignment, and track project progress efficiently, ensuring a seamless communication, workflow and improved productivity.
 
-</br>
+
+This is the client-side of the project, built using React to create a dynamic and responsive user interface along with react supported technologies/ kits. 
+- The useContext API of react is leveraged for state management across various components, enabling smooth data flow and simplifying the handling of shared state. 
+- Socket.IO Client is integrated to enable real-time communication, allowing instant notifications and updates for team members. For enhanced animations and smooth transitions.
+- Framer Motion is utilized, ensuring a polished and engaging user experience throughout the application. 
+
+These technologies combine to create an interactive and seamless interface for effective project collaboration.
+
+---
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
 
 ### Project Description
-Collabor8r is a **MERN stack** based project management tool designed to streamline team collaboration, task management, and project tracking. With real-time notifications powered by `Socket.IO`, it ensures seamless communication, instant updates, and enhanced productivity for teams of all sizes. Keep your projects on track with intuitive workflows and advanced features. User authentication and secure access are managed using JWT (JSON Web Tokens), providing a reliable and scalable solution for verifying user identities. The backend, built on Node.js and Express.js, handles routing, middleware, and database interactions, ensuring fast and efficient data processing for all users.
+Application `Collabor8r` is an intuitive and robust project management tool designed to streamline team collaboration, task management, and project tracking. Built using MERN stack (MongoDB, Express, React, and Node.js) this application ensures smooth and productive project workflows for teams of all sizes. Whether you're managing tasks, tracking progress, or collaborating with colleagues, Collabor8r provides a seamless experience to keep everything on track. With a focus on enhancing productivity, Collabor8r provides advanced features and interactive elements to ensure efficient project execution.
 
 ### 🤖 Tech Stack 
-<a href="#"> 
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>   
+ <a href="#"> 
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  
+  <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/> 
+  <img alt="Framer Motion" src="https://img.shields.io/badge/Framer%20Motion-%23ED5A9F.svg?&style=for-the-badge&logo=framer&logoColor=white"/>
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 <img alt="Node js" src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> 
 <img alt="Express js" src="https://img.shields.io/badge/Express.js-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white"/>   
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> 
- <img alt="JWT Auth" src="https://img.shields.io/badge/JWT%20Auth-%23F7B731.svg?&style=for-the-badge&logo=json-web-tokens&logoColor=white"/>
-
-<img alt="Socket.IO" src="https://img.shields.io/badge/Socket.IO%20-%23010101.svg?&style=for-the-badge&logo=socket.io&logoColor=white"/>
  </a>
- 
 
----
+
+ ---
 - Check out the latest demo of Project [Collabor8r-Site](https://collabora8r.vercel.app/). 
-- Find the Client Repository of this Project Here [Collabor8r-Client](https://github.com/BazilSuhail/Collabora8r-Client). 
+- Find the Server's Repository of this Project Here [Collabor8r-Server](https://github.com/BazilSuhail/Collabora8r-Server). 
 ---
+
 
 ### Run Locally
 Clone the project using the following command:
 ```bash
-   git clone https://github.com/BazilSuhail/Collabora8r-Server.git
+   git clone https://github.com/BazilSuhail/Collabora8r-Client.git
 ```
 Go to the project directory
 ```bash
-   cd Collabor8r-Client
+   cd Collabora8r-Client
 ```
 Then **Run** this command in your terminal to install all required dependancies:
 ```bash
@@ -43,9 +52,10 @@ In the project directory, you can run:
 ```bash
    npm start
 ``` 
-Runs the app in the development mode. Your server will be running at port 3001, 
-Open [http://localhost:3001](http://localhost:3001) or also you can modify it in the **.env** file.
+Runs the app in the development mode.
+Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
 
+---
 ## Features
 ### Task Management
 - **Task Creation**: Create tasks with detailed descriptions, deadlines, and priority levels.
