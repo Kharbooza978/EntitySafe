@@ -18,7 +18,7 @@
 
 ---
 - Check out the latest demo of Project [Collabor8r-Site](https://collabora8r.vercel.app/). 
-- Find the Server Repository of this Project Here [Collabor8r-Client](https://github.com/BazilSuhail/Collabora8r-Server). 
+- Find the Client Repository of this Project Here [Collabor8r-Client](https://github.com/BazilSuhail/Collabora8r-Server). 
 ---
 
 ### Run Locally
@@ -38,8 +38,8 @@ In the project directory, you can run:
 ```bash
    npm start
 ``` 
-Runs the app in the development mode.
-Open [http://localhost:3001](http://localhost:3001) to view it in your browser.
+Runs the app in the development mode. Your server will be running at port 3001, 
+Open [http://localhost:3001](http://localhost:3001) or also you can modify it in the **.env** file.
 
 ## Features
 ### Task Management
