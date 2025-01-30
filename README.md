@@ -21,7 +21,7 @@ Collabor8r is a **MERN stack** based project management tool designed to streaml
 
 ---
 - Check out the latest demo of Project [Collabor8r-Site](https://collabora8r.vercel.app/). 
-- Find the Client Repository of this Project Here [Collabor8r-Client](https://github.com/BazilSuhail/Collabora8r-Server). 
+- Find the Client Repository of this Project Here [Collabor8r-Client](https://github.com/BazilSuhail/Collabora8r-Client). 
 ---
 
 ### Run Locally
