@@ -1,5 +1,6 @@
 ## Collabora8r's Server
 `Collabora8r` a project collaboration and managment tool built using MERN stack aimed to enhance team collaboration, streamline task management, improved workflow and seamless communications resulting in  improved productivity. This is the Server Side of **collabora8r** built using `express-js`, `mongoDb` as a database `jwt-auth` for authentication of users and `socket-io` for real time exchange of notification and project updates.
+
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
 
