@@ -1,7 +1,7 @@
 # GPA Wizard
 
 GPA Wizard is a simple and intuitive GPA (Grade Point Average) calculator built using HTML, CSS, and JavaScript. It allows students to calculate their GPA by entering their grades and credit hours for each course.
-
+I designed for my personal use as well as for my university fellows specially for my own Univerity ITU
 ## Features
 
 - **User-Friendly Interface**: Clean and simple design for easy navigation.
