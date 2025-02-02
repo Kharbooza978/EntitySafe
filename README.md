@@ -35,7 +35,12 @@ GPA Wizard is a simple and intuitive GPA (Grade Point Average) calculator built 
    ```bash
    git clone https://github.com/BazilSuhail/Gpa_Wizard.git
    ```
+2. Navigate to the project directory:
+ ```bash
+cd Gpa_Wizard
+```
 
+3. Open the index.html file in your preferred web browser.
 
 ## Contributing
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
