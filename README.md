@@ -8,6 +8,7 @@ I designed for my personal use as well as for my university fellows specially fo
 - **Dynamic Input Fields**: Add or remove courses as needed.
 - **Instant Calculation**: Automatically calculates GPA as you input grades and credit hours.
 - **Responsive Design**: Works seamlessly on both desktop and mobile devices.
+- **Interactive Table**: A table listing Grade points of each grade.
 
 ## Technologies Used
 
@@ -36,11 +37,15 @@ I designed for my personal use as well as for my university fellows specially fo
    git clone https://github.com/BazilSuhail/Gpa_Wizard.git
    ```
 2. Navigate to the project directory:
- ```bash
-cd Gpa_Wizard
-```
+   ```bash
+   cd Gpa_Wizard
+   ```
 
 3. Open the index.html file in your preferred web browser.
+
+---
+- Check out the latest demo of Project [StaySuite-Site](https://gpawizard.netlify.app/).  
+---
 
 ## Contributing
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
