@@ -7,9 +7,7 @@ I designed for my personal use as well as for my university fellows specially fo
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
-
----
-
+ 
 ### 🤖 Tech Stack 
 <a href="#"> 
 <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
