@@ -7,6 +7,7 @@
 <h1 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/bazil-suhail/">Bazil Suhail</a> 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> A skilled<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=26&center=true&vCenter=true&width=300&height=23&duration=4000&lines=Computer+Scientist;Web-App+Developer;Mobile-App+Developer" />
 
+
 A passionate software engineer and full-stack developer specializing in crafting elegant digital experiences. With expertise in various programming languages and technologies, I excel in both development and design. Currently pursuing a bachelor's degree at ITU, I thrive on building innovative projects, from React components and Next.js to full-stack SAAS applications. Let's connect and create something amazing!
 
 
