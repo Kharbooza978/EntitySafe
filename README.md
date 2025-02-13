@@ -1,4 +1,4 @@
-<p align="center">
+![image](https://github.com/user-attachments/assets/e73d9904-a2f3-4e58-9a98-80ee04c296c0)![image](https://github.com/user-attachments/assets/1b356f56-9c60-4a77-bf5b-706f8f3ecf47)<p align="center">
   <img src="https://github.com/BazilSuhail/BazilSuhail/blob/main/githubBanner.webp" alt="bazilsuhail" />
 </p>
 
@@ -12,8 +12,8 @@ A passionate software engineer and full-stack developer specializing in crafting
 
 
 ## 😎 Expertise
-- Skilled in creating intuitive and visually appealing interfaces.
-- Development of Web and Desktop Applications.
+- Skilled in creating visually appealing interfaces for Websites and Web Applications.
+- Development of intutive Mobile Applications.
 - Experienced in Realtime Database integration like **Firebase** and **Supabase**.
  
 
